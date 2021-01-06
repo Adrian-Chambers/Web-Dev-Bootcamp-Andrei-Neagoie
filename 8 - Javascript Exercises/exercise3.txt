@@ -1,0 +1,24 @@
+
+// Make a Calculator! using prompt(), and variables, make a program that does the following:
+// 1. Prompts the user for first number.
+// 2. Stores that first number
+// 3. Prompts the user for the second number.
+// 4. stores that number and responds with the SUM by using an alert.  
+
+// BONUS: Make a program that can subtract, multiply, and also divide!
+
+var num1 = prompt("Enter first number: ");
+var num2 = prompt("Enter second number: ");
+alert("The sum is " + (Number(num1) + Number(num2)));
+
+var num1 = prompt("Enter first number: ");
+var num2 = prompt("Enter second number: ");
+alert("The difference is " + (Number(num1) - Number(num2)));
+
+var num1 = prompt("Enter first number: ");
+var num2 = prompt("Enter second number: ");
+alert("The product is " + (Number(num1) * Number(num2)));
+
+var num1 = prompt("Enter first number: ");
+var num2 = prompt("Enter second number: ");
+alert("The quotient is " + (Number(num1) / Number(num2)));
