@@ -31,3 +31,11 @@ Building an actual website based upon the responsive layout.
 
 ## 8 - Javascript Exercises
 A series of Javascript exercises 
+
+## 9 - Shopping List
+A simple shopping list app with the ability to add items usings the text field, remove items by pressing
+the delete button, and cross items off by clicking on it.
+
+## 10 - Gradient Background Generator
+A website used to generate css code for a gradient background. Uses two "color" inputs from the user to
+create a gradient.
