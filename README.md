@@ -39,3 +39,9 @@ the delete button, and cross items off by clicking on it.
 ## 10 - Gradient Background Generator
 A website used to generate css code for a gradient background. Uses two "color" inputs from the user to
 create a gradient.
+
+# 11
+Some exercises to practice advanced javascript
+
+# 12
+A simple portfolio website
