@@ -40,8 +40,13 @@ the delete button, and cross items off by clicking on it.
 A website used to generate css code for a gradient background. Uses two "color" inputs from the user to
 create a gradient.
 
-# 11
+## 11 - Advanced Javascript Exercises
 Some exercises to practice advanced javascript
 
-# 12
+## 12 - Portfolio
 A simple portfolio website
+
+## 13 - React Robofriends
+A react app that displays some robofriends' names, phone numbers, and picture. You can use the seachbar to
+search for a particular robot by name. The pictures were generated using a random robot API. Tachyons is 
+used for styling alongside css files.
