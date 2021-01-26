@@ -51,3 +51,11 @@ Tachyons is used for styling alongside css files.
 
 ## 14 - Promises
 Some exercises and references for Javascript Promises
+
+## 15 - API
+A react app to search for Pokemon. Created using the API called "PokeAPI".
+
+##16 - Final Project
+A react app that detects faces in images. 
+Uses Clarifai face detection AI.
+Uses tachyons, tilt, particles.js

@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, #92e2c4 0%, #51b4ec  100%)
+}
+
+button{
+  cursor: pointer;
+}
